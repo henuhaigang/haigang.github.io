@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 2316646499@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog,海港的博客,haigang,java"
-url: "http://haigang.github.io"          # your host, for absolute URL
+url: "http://henuhaigang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/henuhaigang/haigang.github.io.git" # you code repository
+github_repo: "https://github.com/henuhaigang/henuhaigang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
